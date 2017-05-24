@@ -14,7 +14,6 @@ namespace PCLCrypto
     using System.Threading.Tasks;
 #if __UNIFIED__
     using Foundation;
-    using Mono.Security.Cryptography;
     using ObjCRuntime;
     using PCLCrypto.Formatters;
     using Security;
